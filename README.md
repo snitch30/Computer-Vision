@@ -1,7 +1,7 @@
 # Computer-Vision
-CS7GV1- Computer Vision- Assignment 01,02 and 03.
+CS7GV1- Computer Vision- Assignment 01 and 02.
 
-This repository is a part of submission made against Assignments for CS7GV1-2019:20, Trinity College Dublin.
+This repository is a part of submission made against Assignments for CS7GV1-2019:20 taken by [Prof. Dr. Ing. Rozenn Dahyot](https://www.scss.tcd.ie/Rozenn.Dahyot/), Trinity College Dublin.
 
 The complete assignment questionnaire can be found in ```\questions```.
 
